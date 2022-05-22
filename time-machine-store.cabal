@@ -1,6 +1,6 @@
-cabal-version:    2.4
-name:             time-machine-store
-version:          0.1
+cabal-version:      2.4
+name:               time-machine-store
+version:            0.1
 
 executable time-machine-store
   main-is:          Main.hs
